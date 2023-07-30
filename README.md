@@ -33,9 +33,9 @@
 </p>
 
 
-<h3> 🤝🏻 &nbsp;¡Conecta conmigo!</h3>
+## 🤝🏻 &nbsp;¡Conecta conmigo!
 
-<p align="center">
+<p align="left">
 <a href="https://es.linkedin.com/in/fernando-granados-ju%C3%A1rez-9826b2184">
   <img src="https://img.shields.io/badge/-Fernando%20Granados-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
 </a>
