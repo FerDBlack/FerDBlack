@@ -1,12 +1,12 @@
 ### About me <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<h2>¡Hola! Soy Fernando</h2>
+## ¡Hola! Soy Fernando
 
 - 💻 &nbsp; Me encuentro trabajando como developer full stack.
 - 🎓 &nbsp; Actualmente me encuentro además aprendiendo sobre tecnologías como Angular y .NET.
 - ↗️ &nbsp; Abierto a trabajar en conjunto en proyectos web.
 
-<h3> 🛠 &nbsp;Kenguajes y herramientas</h3>
+## 🛠 &nbsp;Kenguajes y herramientas
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-original-wordmark.svg" alt="java" width="40" height="40"/> 
@@ -24,9 +24,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/>
 </p>
 
-<h3> 🛠 &nbsp;Computo general</h3>
+## 📊 &nbsp;Computo general
 
-<p>
+<p align="left">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FerDBlack&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
