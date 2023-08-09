@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Actualmente me encuentro además aprendiendo sobre tecnologías como Angular y .NET.
 - ↗️ &nbsp; Abierto a trabajar en conjunto en proyectos web.
 
-## 🛠 &nbsp;Kenguajes y herramientas
+## 🛠 &nbsp;Lenguajes y herramientas
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-original-wordmark.svg" alt="java" width="40" height="40"/> 
