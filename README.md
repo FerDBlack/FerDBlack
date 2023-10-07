@@ -3,8 +3,8 @@
 ## ¡Hola! Soy Fernando
 
 - 💻 &nbsp; Me encuentro trabajando como developer full stack.
-- 🎓 &nbsp; Actualmente me encuentro además aprendiendo sobre tecnologías como Angular y .NET.
-- ↗️ &nbsp; Abierto a trabajar en conjunto en proyectos web.
+- 🎓 &nbsp; Actualmente estoy aprendiendo sobre tecnologías como Angular y .NET.
+- ↗️ &nbsp; Abierto a trabajar en conjunto en proyectos.
 
 ## 🛠 &nbsp;Lenguajes y herramientas
 <p align="left">
