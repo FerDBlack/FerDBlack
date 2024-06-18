@@ -2,8 +2,8 @@
 
 ## ¡Hola! Soy Fernando
 
-- 💻 &nbsp; Me encuentro trabajando como developer full stack.
-- 🎓 &nbsp; Actualmente estoy desarrolando en Angular y .NET.
+- 💻 &nbsp; Actualmente mi desempeño se centra en Angular y .NET
+- 🎓 &nbsp; Me encuentro en continuo aprendizaje.
 - ↗️ &nbsp; Abierto a trabajar en conjunto en proyectos.
 
 ## 🛠 &nbsp;Lenguajes y herramientas
@@ -19,10 +19,8 @@
 <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-horizontal-blue.svg" alt="mariadb" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/markdown.svg" alt="markdown" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jetbrains/jetbrains-original.svg" alt="intellijidea" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/>
-</p>
+
+
 
 ## 📊 &nbsp;Computo general
 
