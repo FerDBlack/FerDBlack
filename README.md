@@ -18,8 +18,9 @@
 
 ## 📊 &nbsp;Mis lenguajes
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=FerDBlack&theme=compt&layout=pie&width=400&height=400
-
+[https://github-readme-stats.vercel.app/api/top-langs/?username=FerDBlack&theme=compt&layout=pie&width=400&height=400
+](https://github-readme-stats.vercel.app/api/top-langs/?username=FerDBlack&theme=compt&layout=pie&width=400&height=400
+)
 ## 🤝🏻 &nbsp;¡Conecta conmigo!
 
 <p align="left">
