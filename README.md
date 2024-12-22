@@ -19,8 +19,9 @@
 ## 📊 &nbsp;Mis lenguajes
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerDBlack&theme=joll&layout=pie"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerDBlack&theme=compt&layout=pie"/>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerDBlack&theme=compt&layout=pie)](https://github.com/FerDBlack)
 
 ## 🤝🏻 &nbsp;¡Conecta conmigo!
 
